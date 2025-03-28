@@ -3,6 +3,7 @@ AOS.init({
   duration: 800,
   easing: "slide",
 });
+document.body.style.overflowX = "hidden";
 
 function toggleMenu() {
   let nav = document.querySelector(".nav-links");
