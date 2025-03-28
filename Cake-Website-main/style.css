@@ -9,15 +9,9 @@ html {
   padding: 0;
 }
 
-.row {
-  flex-wrap: wrap !important;
-}
 
-.col-md-3 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+
+
 
 /* Navigation Bar */
 .nav-links {
