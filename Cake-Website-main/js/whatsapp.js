@@ -1,5 +1,5 @@
 function sendToWhatsapp() {
-    let phoneNumber = "+917489733426"; // Replace with your WhatsApp number
+    let phoneNumber = "+918875064471"; // Replace with your WhatsApp number
 
     // Get form values using IDs
     let name = document.getElementById("customer_name").value;
