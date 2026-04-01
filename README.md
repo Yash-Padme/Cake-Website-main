@@ -2,7 +2,7 @@
 
 > **Freelance Project** — A responsive cake-ordering platform built for a cake bakery to establish a digital presence and boost customer engagement.
 
-🔗 **Live Demo:** [https://yash-padme.github.io/Cake-Website-main/Cake-Website-main/](https://yash-padme.github.io/Cake-Website-main/Cake-Website-main/)
+🔗 **Live Demo:** [https://ayushicakes.netlify.app/](https://ayushicakes.netlify.app/)
 
 ---
 
